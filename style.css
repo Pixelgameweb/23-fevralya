@@ -1,0 +1,41 @@
+
+.wrapper {
+
+}
+.hero {
+
+}
+
+.span__hero {
+    font-family: 'Gloock', serif;
+
+    text-align: center;
+}
+
+.papyrys__hero {
+    width: 363px;
+    height: 384px;
+}
+
+
+.papyrys__img {
+    width: 363px;
+    height: 384px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.papyrys__span {
+    font-family: 'Zeyada', cursive;    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.dspan__hero{
+    text-align: center;
+}
